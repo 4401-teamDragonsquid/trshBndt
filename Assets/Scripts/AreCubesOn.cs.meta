@@ -3,7 +3,11 @@ guid: 74ab89c9805e21944b3d94a825136b19
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - cube1: {fileID: 1064129083030260, guid: 5ed53ee74668118428d75bb832cb582d, type: 2}
+  - cube2: {fileID: 1033414022593086, guid: 57be512400d807f4cb60567707b094a0, type: 2}
+  - cube3: {fileID: 1060249411761080, guid: c04c9d96067b224408e9599d3ce7a26c, type: 2}
+  - cube4: {fileID: 1331520717512686, guid: a073bd0963c56ef4895df956d79a4843, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
