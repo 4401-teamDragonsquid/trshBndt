@@ -31,7 +31,7 @@ public class RaccoonMovement : MonoBehaviour
             //Physics2d Perhaps 2d and 3d physics are different
             {
                 hitPosition = hit.point;
-                Debug.Log(hitPosition);
+              //  Debug.Log(hitPosition);
             }
         }
         //transform.LookAt(hitPosition);
