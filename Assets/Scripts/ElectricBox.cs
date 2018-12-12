@@ -10,7 +10,7 @@ public class ElectricBox : MonoBehaviour {
         Debug.Log("entered");
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(2);
             Debug.Log("Zap!");
         }
     }

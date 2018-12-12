@@ -31,7 +31,7 @@ public class AreCubesOn : MonoBehaviour
 		if(cube1.activeSelf == true && cube2.activeSelf == true && cube3.activeSelf == true && cube4.activeSelf == true)
 		{
 			//Debug.Log("it worked bruh");
-		 SceneManager.LoadScene(0);
+		 SceneManager.LoadScene(3);
 		}
 		
 	 
